@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chuckjokes/chuckjokes.iml" filepath="$PROJECT_DIR$/chuckjokes/chuckjokes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring5-jokes-app-v2.iml" filepath="$PROJECT_DIR$/.idea/spring5-jokes-app-v2.iml" />
     </modules>
   </component>
